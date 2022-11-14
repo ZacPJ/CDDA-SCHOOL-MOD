@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "school_refugee_start",
+    "name": "Schoolkid Search for Refugee Center",
+    "authors": [ "Cipher" ],
+    "maintainers": [ "Cipher" ],
+    "description": "Adds a new start similar to the school start but with a mission to find the nearby refugee center",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
