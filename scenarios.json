@@ -1,0 +1,15 @@
+[
+  {
+    "type": "scenario",
+    "id": "refugee_school",
+    "name": "Schoolkid search for refugee center ALT",
+    "points": -1,
+    "description": "What happened? Today should have been a normal school day, until you heard the shouting, the screaming. In the streets you heard bullets flying, and creatures moaning. In fear you hid yourself in a nearby closet. Your friend called in sick today, you wont make it to their house, they probably wont be their. You remember them mentioning a center their older brother talked about. You try your best to remember the location, hopefully your friend will be there, safe.",
+    "allowed_locs": [
+      "sloc_school"
+    ],
+    "start_name": "In Town",
+    "flags": [ "CITY_START", "LONE_START" ],
+    "missions": ["MISSION_SCHOOL_REACH_REFUGEE_CENTER"]
+  }
+]
